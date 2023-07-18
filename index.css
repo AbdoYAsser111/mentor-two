@@ -1,0 +1,310 @@
+body {
+    background-color: #fafafa;
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+
+
+} 
+ 
+ 
+ .kose {
+background: linear-gradient(to left bottom , hsl(293, 100%, 63%) ,hsl(264, 100%, 61%));
+width: 370px ;
+height: 600px ;
+border-radius: 0px 0px 200px 200px;
+position: absolute;
+z-index: -1;
+
+ }
+
+.mobail {
+
+width: 250px;
+height: 488px;
+background-color:hsl(270, 20%, 96%);
+position: absolute;
+margin-left: 321px;
+margin-top: 76px;
+border-radius: 31px;
+border: 10px hsl(0, 0%, 100%) solid;
+box-shadow: 16px 19px 18px #cacaca;
+
+}
+.notch {
+    background-color: hsl(0, 0%, 100%);
+    width: 125px ;
+    height: 24px ;
+    margin-top: 81px;
+    margin-left: 389px;
+    position: absolute;
+    border-top-left-radius:0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 15px ;
+    border-bottom-right-radius: 15px ;
+    z-index: 2;
+   
+
+}
+.phoneup {
+    background: linear-gradient(to left, hsl(293, 100%, 63%) ,hsl(264, 100%, 61%));
+position: absolute;
+width: 250px;
+height: 70px;
+margin-left: 329px;
+margin-top: 87px;
+border-top-left-radius: 21px ;
+border-top-right-radius: 21px ;
+border-bottom-left-radius: 5px ;
+border-bottom-right-radius: 5px ;
+color: white;
+
+}
+.names {
+    margin-top :28px ;
+    margin-left :60px ;
+    margin-bottom: 0;
+
+}
+.bottomname {
+    margin-top: 0;
+    font-size: 10px ;
+    margin-left: 60px ;
+    letter-spacing: 1px;
+    word-spacing: -2px;
+    margin-bottom: 0;
+    opacity: 0.6;
+}
+ .userphoto {
+    position: absolute;
+    z-index: 3;
+    width: 25px;
+    height: 25px ;
+    border-radius: 200px;
+    margin-top: -29px ;
+    margin-left: 23px;
+    border: white 1px solid;
+ }
+ .sahm {
+    margin-left: 9px;
+    margin-top: -25px;
+ }
+ .p1 {
+    margin-left: 229px ;
+    margin-top: -25px ;
+ }
+ .p2 {
+    margin-left: 229px ;
+    margin-top: -14px;
+ }
+ .p3 {
+    margin-left: 229px  ;
+    margin-top: -13px ;
+ }
+ .chat1 {
+   color: hsl(276, 55%, 52%) ;   
+   background-color: hsl(274.29deg 36.84% 92.55%);
+   margin-top: 78px;
+   margin-left: 10px;
+   margin-bottom: 6px;
+   font-size: 10px;
+   width: 105px;
+   padding: 7px;
+   border-radius: 10px;
+   padding-right: 17px;
+ }
+ .chat2 {
+    color: hsl(276, 55%, 52%) ;   
+    background-color: hsl(274.29deg 36.84% 92.55%);
+    margin-left: 10px;
+    font-size: 9px;
+    width: 105px;
+    padding: 7px;
+    border-radius: 10px;
+    padding-right: 17px;
+  }
+
+ .Dog1 {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 105px;
+    margin-top:15px ;
+ } 
+ .Dog2 {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 5px;
+    margin-top:15px ;
+ } 
+ .Dog3 {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 5px;
+    margin-top:15px ;
+ } 
+ .chat3 {
+     
+    background-color: white;
+    margin-left: 112px;
+    font-size: 9px;
+    width: 112px;
+    padding: 7px;
+    border-radius: 10px;
+    padding-right: 9px;
+    padding-left: 9px;
+    margin-top: 10px;
+ }
+ .chat4 {
+     
+    background-color: white;
+    margin-left: 158px;
+    font-size: 9px;
+    width: 68px;
+    padding: 7px;
+    border-radius: 10px;
+    padding-right: 5px;
+    padding-left: 9px;
+    margin-top: 10px;
+ }
+ .chat5 {
+
+    color: hsl(276, 55%, 52%) ;   
+    background-color: hsl(274.29deg 36.84% 92.55%);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 8px;
+    width: 105px;
+    padding: 7px;
+    border-radius: 10px;
+    padding-right: 17px;
+
+ }
+ .chat6 {
+
+   color: hsl(274.29deg 36.84% 92.55%);
+   background: linear-gradient(to left, hsl(293, 100%, 63%) ,hsl(264, 100%, 61%));
+   margin-left: 10px;
+   margin-top: 7px;
+   font-size: 9px;
+   width: 87px;
+   height: 17px;
+   padding: 7px;
+   border-radius: 10px;
+   padding-right: 17px;
+   padding-left: 25px;
+   padding-top: 8px;
+
+ }
+ .cerc {
+
+   background-color: hsl(267.88deg 100% 61.18%);
+   width: 10px;
+   height: 10px;
+   border: white 0.5px solid;
+   border-radius: 50px;
+   margin-right: 0px;
+   position: absolute;
+   margin-left: 19px;
+   margin-top: -24px;
+ }
+ .price {
+   position: absolute;
+   margin-left: 67px;
+   margin-top: -12px;
+   font-size: 15px;
+ }
+ .sendbox {
+   width: 225px;
+   height: 30px;
+   background-color: white;
+   border-radius: 60px;
+   margin-left: 13px;
+   margin-top: 6px;
+   
+
+ }
+ .tam {
+   margin-left: 16px;
+   margin-top: 10px;
+   font-size: 11px;
+   position: absolute;
+   opacity: 0.4;
+ }
+ .sendbot {
+   width: 25px;
+   height: 25px;
+   border-radius: 50px;
+   position: absolute;
+   background-color: black;
+   margin-left: 207px;
+   margin-top: -28px;
+
+ }
+ .arrow {
+   width: 20px;
+   height: 20px;
+   margin-left: 209px;
+   margin-top: -26px;
+   position: absolute;
+   border-radius: 50px;
+  
+
+
+ }
+ .anwan {
+
+   margin-left: 711px;
+   margin-top: 249px;
+   position: absolute;
+   letter-spacing: 0.5px;
+ }
+ .par {
+   margin-top: 299px;
+   margin-left: 710px;
+   width: 406px;
+   font-size: 15px;
+   position: absolute;
+   opacity: 0.4;
+
+ }
+
+ .kose2 {
+ background-color: #f5f3f7;
+width: 370px ;
+height: 600px ;
+border-radius: 200px 200px  0px 0px;
+
+
+
+
+ }
+ .mfishlazma {
+   display: flex;
+justify-content: end;
+align-items: flex-end;
+margin-top: 200px;
+ }
+
+.mal {
+   display: flex;
+   justify-content: start;
+   align-items: flex-start;
+ }
+ 
+
+
+ .attribution { 
+    font-size: 11px; text-align: center; 
+
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+
+ }
